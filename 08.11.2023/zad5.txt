@@ -1,0 +1,5 @@
+1 czytelcość kody switch jest o wiele łatwiejsza co ułatwia nam jej zrozumienie wielkrotne użycie 
+if'a może nam ten kod doś mocno skomplikować 
+2 switch jest bardziej wydajny niż istrukcjie if np.przypadku do obsługi wielu przypadków
+3 switch pozwala nałatwe obsłóżenie przypadku kóry zostanie uruchomiony gdy gdy żadne z warunków jest nie spełeniony a 
+zat ow przypadku if muslieśmy by użyćdodakowo else    
