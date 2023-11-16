@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularz</title>
+</head>
+<body>
+    <form action="process_form.php" method="post">
+        Rok urodzenia: <input type="text" name="birth_year" required><br>
+        Płeć: <input type="text" name="gender" required><br>
+        Uwagi o stronie: <input type="text" name="comments" maxlength="100"><br>
+        Oświadczenie o zgodzie: <input type="checkbox" name="consent" required><br>
+        <input type="submit" value="Wyślij">
+    </form>
+</body>
+</html>

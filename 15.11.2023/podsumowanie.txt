@@ -1,0 +1,14 @@
+Zadanie 1:
+B. false.
+
+Zadanie 2:
+C. 3.
+
+Zadanie 3:
+B. mysql_select_db().
+
+Zadanie 4:
+B. Adres serwera, nazwa użytkownika i hasło.
+
+Zadanie 5:
+B. Nawiązanie połączenia -> wybór bazy -> wykonanie zapytania -> zamknięcie bazy.

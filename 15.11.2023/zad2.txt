@@ -1,0 +1,23 @@
+*Zalety korzystania z serwera baz danych do przechowywania danych z aplikacji internetowych:**
+
+1. **Spójność danych:** Serwer baz danych zapewnia spójność danych, eliminując ryzyko sprzeczności i zapewniając, że informacje są zawsze zgodne.
+
+2. **Bezpieczeństwo danych:** Serwery baz danych oferują mechanizmy bezpieczeństwa, takie jak uwierzytelnianie i uprawnienia, co pomaga chronić dane przed nieautoryzowanym dostępem.
+
+3. **Skalowalność:** Serwery baz danych są zazwyczaj zaprojektowane z myślą o skalowalności, co oznacza, że ​​mogą obsługiwać rosnącą ilość danych i użytkowników.
+
+4. **Wydajność zapytań:** Optymalizacja zapytań i indeksowanie danych umożliwiają szybki dostęp do potrzebnych informacji.
+
+5. **Przywracanie danych:** Systemy baz danych często oferują mechanizmy do przywracania danych w przypadku awarii, co pomaga w utrzymaniu ciągłości działania aplikacji.
+
+**Wady korzystania z serwera baz danych do przechowywania danych z aplikacji internetowych:**
+
+1. **Koszty:** Serwery baz danych mogą generować koszty związane z zakupem licencji, konserwacją i zarządzaniem infrastrukturą.
+
+2. **Złożoność:** Konieczność zarządzania i utrzymania bazy danych wprowadza dodatkową złożoność w projektach.
+
+3. **Wymagania sprzętowe:** Duże bazy danych mogą wymagać zaawansowanej infrastruktury sprzętowej, co zwiększa koszty.
+
+4. **Elastyczność:** Niektóre systemy baz danych mogą być mniej elastyczne w zakresie dostosowywania się do zmieniających się wymagań aplikacji w porównaniu do innych modeli przechowywania danych.
+
+5. **Wydajność w niektórych przypadkach:** W zależności od specyfiki aplikacji, korzystanie z serwera baz danych może wprowadzać opóźnienia w dostępie do danych, szczególnie w przypadku dużych ilości równoczesnych operacji.
